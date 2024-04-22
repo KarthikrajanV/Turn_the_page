@@ -4,6 +4,8 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 
+
+
 const firebaseConfig = {
   apiKey: "AIzaSyCsP_JLKfpOZVpWKhpCfeURCD_HgF9mDe8",
   authDomain: "turn-the-page-46933.firebaseapp.com",
