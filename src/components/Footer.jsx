@@ -70,7 +70,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-      <p class='text-gray-800 text-sm mt-8'>© 2024 <span className=' font-goChiHand text-xl'>Turn the page   </span> All Rights Reserved. Developed by <span className=' text-red-600 '>Karthikrajan Vijayakumar✨</span>.
+      <p class='text-gray-800 text-sm mt-8'>© 2024 <span className=' font-goChiHand text-xl'>Turn the page   </span> All Rights Reserved. Developed by <span className=' text-red-600 font-bold'> <a href=" https://www.linkedin.com/in/karthikrajanv/">Karthikrajan Vijayakumar✨</a> </span>.
       </p>
     </footer>
     
